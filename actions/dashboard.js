@@ -132,7 +132,6 @@ export async function createAccount(data) {
     throw new Error(error.message);
   }
 }
-
 export async function getDashboardData() {
   const { userId } = await auth();
   if (!userId) throw new Error("Unauthorized");
