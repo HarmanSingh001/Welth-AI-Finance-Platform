@@ -55,8 +55,3 @@ Wealth is a cutting-edge AI-powered finance management platform built with Next.
 3. **AI-Powered Budget Suggestions**: Use AI to recommend budgets based on past spending patterns.
 4. **Custom Analytics**: Allow users to create personalized financial dashboards.
 5. **Voice Input Support**: Introduce voice-based transaction entry for added convenience.
-
----
-
-<h4>🌐 Live Demo</h4>  
-Try the app here: [Live Demo](SOON DEPLOYED)
